@@ -20,6 +20,7 @@ Currently known supported models:
 
 - TC-P65VT30
 - TX-32AS520E
+- TX-47AS650E
 - TX-49DX650B
 - TX-50DX700B
 - TX-55CX700E
