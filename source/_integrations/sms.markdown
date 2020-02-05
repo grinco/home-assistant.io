@@ -59,12 +59,12 @@ Note: In Hass.io you need to install the SSH add-on.
 
 ## Required Hardware
 
-You will need a USB GSM stick modem.
+You will need a USB GSM stick or a mPCIe LTE/GSM/UMTS modem card.
 
 ### List of modems known to work
-
 - [Huawei E3372-510](https://www.amazon.com/gp/product/B01N6P3HI2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)(
 Need to unlock it using [this guide](http://blog.asiantuntijakaveri.fi/2015/07/convert-huawei-e3372h-153-from.html))
+- [Sierra Wireless Mc8781](https://www.aliexpress.com/item/33030885254.html?spm=a2g0s.9042311.0.0.7bfe4c4dVlHmxk)
 
 [List of modems that may work](https://www.asus.com/event/networks_3G4G_support/)
 
